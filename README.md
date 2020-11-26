@@ -1,4 +1,4 @@
-# twotter
+# twooter
 
 ## Project setup
 
